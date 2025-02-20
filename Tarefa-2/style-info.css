@@ -1,0 +1,99 @@
+.voltar{
+    color: gray;
+    margin-right: 10px;
+}
+.navInfo i{
+    color: gray;
+}
+.navInfo{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.foto{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    margin-top: 50px;
+}
+.foto img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+.jason{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    margin-top: -10px;
+    color: green;
+}
+.cima{
+    margin: 0%;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    gap: 20px;
+    width: 100%;
+    margin-top: 50px;
+}
+.cima i{
+    color: green;
+}
+.cima p{
+    color: gray;
+}
+.baixo{
+    margin: 0%;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    width: 100%;
+    margin-top: 0px;
+}
+.conteudo{
+    display: flex;
+    align-items: start;
+}
+.mais-pedidos{
+    margin-top: 50px;
+    margin-left: 15px;
+}
+.forma{
+    display: flex;
+    border-radius: 16px;
+    background-color: green;
+    width: 150px;
+    margin-bottom: 50px;
+}
+.forma img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.forma p{
+    margin-top: -10px;
+}
+footer{
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+    color: green;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+}
+.icon{
+    color: white;
+    border-radius: 50%;
+    background-color: green;
+}

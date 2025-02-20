@@ -1,0 +1,35 @@
+.logo{
+    display: flex;
+    justify-content: center;
+}
+.logo i{
+    margin-top: 22px;
+    color: green;
+}
+.cima{
+    display: flex;
+    justify-content: space-between;
+}
+.lista{
+    display: flex;
+    justify-content: start;
+    color: gray;
+}
+.lista i{
+    margin-top: 16px;
+    margin-right: 10px;
+}
+main{
+    display: flex;
+    justify-content: flex-start;
+    margin-left: 50px;
+}
+.light{
+    margin-right: 30px;
+    color: white;
+    border-radius: 50%;
+    background-color: green;
+}
+.dark{
+    color: green;
+}
